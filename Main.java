@@ -2,7 +2,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        // write experimental main programs here
+
         PaymentTerminal unicafeExactum = new PaymentTerminal();
         System.out.println(unicafeExactum);
 
